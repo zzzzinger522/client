@@ -8,3 +8,4 @@
 - Fixed an issue with the connecting screen.
 - Removed adblocker related code lol.
 - Removed the useless links tab.
+- Fixed the client changelog staying cached after an update.
