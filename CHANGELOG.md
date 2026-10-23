@@ -4,3 +4,7 @@
 - Fixed respawning.
 - Fixed sandbox commands.
 - Added captcha support.
+- Added buttons to the death and disconnect screens.
+- Fixed an issue with the connecting screen.
+- Removed adblocker related code lol.
+- Removed the useless links tab.
