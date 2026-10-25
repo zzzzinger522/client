@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         client
 // @namespace    https://raw.githubusercontent.com/zzzzinger522/client/main/
-// @version      1.0.8
+// @version      1.0.9
 // @match        https://arras.io/+*
 // @run-at       document-start
 // @grant        GM_getResourceURL
@@ -11,7 +11,7 @@
 // @connect      raw.githubusercontent.com
 // @inject-into  page
 // @noframes
-// @resource     wasm https://raw.githubusercontent.com/zzzzinger522/client/main/app.wasm?v=1.0.8
+// @resource     wasm https://raw.githubusercontent.com/zzzzinger522/client/main/app.wasm?v=1.0.9
 // @updateURL    https://raw.githubusercontent.com/zzzzinger522/client/main/client.meta.js
 // @downloadURL  https://raw.githubusercontent.com/zzzzinger522/client/main/client.user.js
 // ==/UserScript==

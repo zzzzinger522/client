@@ -7,6 +7,7 @@
 - Only 4 notifications are shown at once now, hover over them to see all.
 - Improved WebGL 2 performance.
 - Optimized eye walls.
+- Fixed level calculation.
 
 # Update [2026-10-24]
 - Improved client performance.
