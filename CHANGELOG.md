@@ -8,6 +8,8 @@
 - Improved WebGL 2 performance.
 - Optimized eye walls.
 - Fixed level calculation.
+- Added the player list.
+- Options and Players buttons now slide out when hovered.
 
 # Update [2026-10-24]
 - Improved client performance.
