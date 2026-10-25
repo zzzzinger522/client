@@ -10,6 +10,7 @@
 - Fixed level calculation.
 - Added the player list.
 - Options and Players buttons now slide out when hovered.
+- Fixed HUD spacing.
 
 # Update [2026-10-24]
 - Improved client performance.
