@@ -1,4 +1,7 @@
 # Update [2026-10-25]
+- Added replays/recording.
+
+# Update [2026-10-25]
 - Fixed sandbox help notification.
 - Fixed main menu resizing.
 - Fixed portal playercount text.
