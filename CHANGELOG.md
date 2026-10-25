@@ -2,6 +2,11 @@
 - Fixed sandbox help notification.
 - Fixed main menu resizing.
 - Fixed portal playercount text.
+- Fixed transparent entities with WebGL 2.
+- Fixed keys in sandbox notifications.
+- Only 4 notifications are shown at once now, hover over them to see all.
+- Improved WebGL 2 performance.
+- Optimized eye walls.
 
 # Update [2026-10-24]
 - Improved client performance.
