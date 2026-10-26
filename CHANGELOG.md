@@ -8,7 +8,7 @@
 - Made long chat messages split into multiple messages when sent.
 - Made changelogs show client tab by default.
 - Added a "Pentagon Nest" option to settings, which brings back the old pentagon nest in the center of the arena.
-- Added an "Enable Eye Walls" option to settings, the eyes on halloween maze walls are now hidden unless it's on.
+- Eyes on walls are now hidden by default, you can change this in settings.
 - Updates now load the first time you open the client, no extra refresh needed.
 
 # Update [2026-10-25]
