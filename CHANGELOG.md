@@ -1,19 +1,18 @@
 # Update [2026-10-26]
-- Replays no longer have grey bars around them.
-
-# Update [2026-10-26]
 - Exported videos are now about half the size.
-
-# Update [2026-10-26]
 - Replays no longer stutter when you lag.
 - Videos now export as WebM by default, which plays on phones too.
 - Added 120 fps to video export.
 - Lowered the max video resolution from 4K to 1440p.
+- Fixed dread rendering.
+- Made long chat messages split into multiple messages when sent.
+- Made changelogs show client tab by default.
+- Added a "Pentagon Nest" option to settings, which brings back the old pentagon nest in the center of the arena.
+- Added an "Enable Eye Walls" option to settings, the eyes on halloween maze walls are now hidden unless it's on.
+- Updates now load the first time you open the client, no extra refresh needed.
 
 # Update [2026-10-25]
 - Added replays/recording.
-
-# Update [2026-10-25]
 - Fixed sandbox help notification.
 - Fixed main menu resizing.
 - Fixed portal playercount text.
