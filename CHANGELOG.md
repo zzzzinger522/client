@@ -1,3 +1,9 @@
+# Update [2026-10-26]
+- Replays no longer stutter when you lag.
+- Videos now export as WebM by default, which plays on phones too.
+- Added 120 fps to video export.
+- Lowered the max video resolution from 4K to 1440p.
+
 # Update [2026-10-25]
 - Added replays/recording.
 
