@@ -1,4 +1,7 @@
 # Update [2026-10-26]
+- Replays no longer have grey bars around them.
+
+# Update [2026-10-26]
 - Exported videos are now about half the size.
 
 # Update [2026-10-26]
