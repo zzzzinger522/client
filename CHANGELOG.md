@@ -1,3 +1,6 @@
+# Update [2026-10-27]
+- Made movement smoother, especially on laggy servers.
+
 # Update [2026-10-26]
 - Exported videos are now about half the size.
 - Replays no longer stutter when you lag.
