@@ -1,5 +1,6 @@
 # Update [2026-10-27]
 - Made movement smoother, especially on laggy servers.
+- Fixed dying entities speeding up after lag spikes.
 
 # Update [2026-10-26]
 - Exported videos are now about half the size.
