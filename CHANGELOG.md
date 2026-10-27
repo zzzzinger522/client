@@ -2,6 +2,7 @@
 - Made movement smoother, especially on laggy servers.
 - Fixed dying entities speeding up after lag spikes.
 - Camera and mouse performance improvements.
+- WebGL 2 performance improvements.
 
 # Update [2026-10-26]
 - Exported videos are now about half the size.
