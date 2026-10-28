@@ -1,3 +1,6 @@
+# Update [2026-10-28]
+- Restored the previous frame timing to fix smoothness and FPS display issues.
+
 # Update [2026-10-27]
 - Made movement smoother, especially on laggy servers.
 - Fixed dying entities speeding up after lag spikes.
