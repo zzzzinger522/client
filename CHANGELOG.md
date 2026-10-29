@@ -1,10 +1,4 @@
 # Update [2026-10-28]
-- Theme color picker fixes.
-- Default themes can now be removed from the selector.
-- Increased custom theme capacity.
-- Fixed markers showing up outside of the minimap.
-
-# Update [2026-10-28]
 - Restored the previous frame timing to fix smoothness and FPS display issues.
 
 # Update [2026-10-27]
