@@ -1,5 +1,22 @@
 # Update [2026-10-31]
 - Fixed markers showing up outside of the minimap.
+- Fixed visual glitches in the theme color picker.
+- Fixed the color picker's hue jumping around while dragging.
+- Increased custom theme capacity.
+- Default themes can now be removed.
+- Long tooltips are no longer hidden behind the play menu.
+- Replaced the Featured ArrasTuber button with a link to the Arras Themes library.
+- Changed the default themes.
+- Added animated theme colors.
+- Added a Glass option that makes stuff see through.
+- Added an Extras tab to settings, the client's own options are there now.
+- Added a Shape Layers option, turn it off to draw shapes without their inner layers.
+- Added a Rainbow Team Colors option.
+- Added options to turn off the player list and long message splitting.
+- Added a Show Hidden Servers option.
+- Added a Copy Screenshots option that copies screenshots to your clipboard instead of downloading them.
+- Added Auto Reconnect.
+- Added an Uncapped Framerate option.
 
 # Update [2026-10-28]
 - Restored the previous frame timing to fix smoothness and FPS display issues.
