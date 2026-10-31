@@ -5,6 +5,7 @@
 - Increased custom theme capacity.
 - Default themes can now be removed.
 - Long tooltips are no longer hidden behind the play menu.
+- Fixed clicks going through the stat bars into the game.
 - Replaced the Featured ArrasTuber button with a link to the Arras Themes library. Credits to Hertz.
 - Changed the default themes. Credits to Hertz.
 - Added animated theme colors.
@@ -17,6 +18,8 @@
 - Added a Copy Screenshots option that copies screenshots to your clipboard instead of downloading them.
 - Added Auto Reconnect.
 - Added an Uncapped Framerate option.
+- Added stat builds, save your stats and load them in one click from the Builds button above the stat bars.
+- You can now favorite themes.
 
 # Update [2026-10-28]
 - Restored the previous frame timing to fix smoothness and FPS display issues.
