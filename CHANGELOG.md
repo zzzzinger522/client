@@ -1,3 +1,6 @@
+# Update [2026-10-31]
+- Fixed markers showing up outside of the minimap.
+
 # Update [2026-10-28]
 - Restored the previous frame timing to fix smoothness and FPS display issues.
 
