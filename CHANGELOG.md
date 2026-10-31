@@ -5,8 +5,8 @@
 - Increased custom theme capacity.
 - Default themes can now be removed.
 - Long tooltips are no longer hidden behind the play menu.
-- Replaced the Featured ArrasTuber button with a link to the Arras Themes library.
-- Changed the default themes.
+- Replaced the Featured ArrasTuber button with a link to the Arras Themes library. Credits to Hertz.
+- Changed the default themes. Credits to Hertz.
 - Added animated theme colors.
 - Added a Glass option that makes stuff see through.
 - Added an Extras tab to settings, the client's own options are there now.
