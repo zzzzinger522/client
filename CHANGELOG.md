@@ -1,6 +1,7 @@
 # Update [2026-11-01]
 - Added a Saves menu which automatically stores your saves.
 - Added a Saves Menu option to the Extras tab, turn it off to hide the Saves button.
+- Added visual effects. (Bloom, Trails and Shattering)
 
 # Update [2026-10-31]
 - Fixed markers showing up outside of the minimap.
