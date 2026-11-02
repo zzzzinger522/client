@@ -1,6 +1,6 @@
 # Update [2026-11-02]
 - The debug info now shows how many players are in the server you are in.
-- Speed in the debug info is now measured client side and is actually accurate now.
+- Speed in the debug info is now measured client side and is actually accurate.
 - Other small debug info improvements.
 
 # Update [2026-11-01]
