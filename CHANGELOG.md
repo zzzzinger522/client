@@ -4,6 +4,8 @@
 - Other small debug info improvements.
 - Performance improvements.
 - Bloom is now lighter on your GPU.
+- Fixed visual effect settings affecting things they shouldnt.
+- Builds now also save your tank and upgrade you into it when you load them, turn off Load Build Tanks in the Extras tab to only load the stats.
 
 # Update [2026-11-01]
 - Added a Saves menu which automatically stores your saves.
