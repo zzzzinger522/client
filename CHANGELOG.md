@@ -1,3 +1,8 @@
+# Update [2026-11-02]
+- The debug info now shows how many players are in the server you are in.
+- Speed in the debug info is now measured client side and is actually accurate now.
+- Other small debug info improvements.
+
 # Update [2026-11-01]
 - Added a Saves menu which automatically stores your saves.
 - Added a Saves Menu option to the Extras tab, turn it off to hide the Saves button.
