@@ -4,6 +4,8 @@
 - Fixed restore command autofill. 
 - Added an option to show/hide effects in the replay systems layers feature.
 - Fixed an issue where visual effects made the main menu feel laggy.
+- Shatter effect is no longer affected by damage flashes.
+- Trails should now follow projectiles until they disappear.
 
 # Update [2026-11-02]
 - Added backgrounds to visual effects.
