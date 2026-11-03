@@ -1,3 +1,9 @@
+# Update [2026-11-03]
+- Fixed corners on WebGL2.
+- Made build loading load the tank first.
+- Fixed restore command autofill. 
+- Added an option to show/hide effects in the replay systems layers feature.
+
 # Update [2026-11-02]
 - Added backgrounds to visual effects.
 - The debug info now shows how many players are in the server you are in.

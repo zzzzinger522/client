@@ -1,11 +1,11 @@
 {
- "version": "1.0.40",
+ "version": "1.0.41",
  "page": {
-  "file": "page-1.0.40.html",
-  "sha256": "b2c7f6ebd26b6280b6271a029a760743582cec65f32bd3e828070e5f38b245c5"
+  "file": "page-1.0.41.html",
+  "sha256": "0bd9a8a9c38acaa41a347942c78d215c538b9e78321ad9d60e82b7f63673a03a"
  },
  "wasm": {
-  "file": "app-1.0.40.wasm",
-  "sha256": "2911973c107200ca85015fee3da80a52d3dd27a458f25f9ef7f7f61a52c3f08f"
+  "file": "app-1.0.41.wasm",
+  "sha256": "824397702bfe40af57d871ee1d295a92fd559fccb05f370e5d615718aac562f6"
  }
 }
