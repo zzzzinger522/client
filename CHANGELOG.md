@@ -3,6 +3,7 @@
 - Made build loading load the tank first.
 - Fixed restore command autofill. 
 - Added an option to show/hide effects in the replay systems layers feature.
+- Fixed an issue where visual effects made the main menu feel laggy.
 
 # Update [2026-11-02]
 - Added backgrounds to visual effects.
