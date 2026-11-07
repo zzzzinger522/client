@@ -1,3 +1,9 @@
+# Update [2026-11-07]
+- Redesigned the main menu.
+- The upgrade panel doesnt show up when you dont have available points anymore, you can change this in options.
+- You now have to solve captcha much less frequently.
+
+
 # Update [2026-11-06]
 - The stat bars no longer block clicks when you have no stat points to spend.
 - Video exports now stay within the size limit.
