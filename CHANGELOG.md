@@ -1,3 +1,9 @@
+# Update [2026-11-06]
+- The stat bars no longer block clicks when you have no stat points to spend.
+- Video exports now stay within the size limit.
+- Fixed things shattering multiple times when lots of things die at once.
+- Added motion blur to visual effects.
+
 # Update [2026-11-03]
 - Fixed corners on WebGL2.
 - Made build loading load the tank first.
