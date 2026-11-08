@@ -1,8 +1,12 @@
+# Update [2026-11-08]
+- The client now loads instantly.
+- Updates now download in the background. When one is ready, a notification on the main menu lets you update now or later.
+- Updates are now less than half the size, so they download faster.
+
 # Update [2026-11-07]
 - Redesigned the main menu.
 - The upgrade panel doesnt show up when you dont have available points anymore, you can change this in options.
 - You now have to solve captcha much less frequently.
-
 
 # Update [2026-11-06]
 - The stat bars no longer block clicks when you have no stat points to spend.
