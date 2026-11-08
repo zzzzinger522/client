@@ -1,4 +1,5 @@
 # Update [2026-11-08]
+- Fixed right click not working properly.
 - Added a HUD editor.
 - The client should load much faster now.
 - Updates now download in the background. When one is ready, a notification on the main menu lets you update now or later.
