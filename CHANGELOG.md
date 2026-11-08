@@ -1,5 +1,5 @@
 # Update [2026-11-08]
-- The client now loads instantly.
+- The client should load much faster now.
 - Updates now download in the background. When one is ready, a notification on the main menu lets you update now or later.
 - Updates are now less than half the size, so they download faster.
 
