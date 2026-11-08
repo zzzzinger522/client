@@ -1,3 +1,9 @@
+# Update [2026-11-09]
+- Killing an incognito player with over 400k score now tells you their real score. Assists show a minimum, since the score is split between everyone who helped.
+- Fixed the last server on the list being faded out.
+- The Discord button now links to discord.gg/arrasio.
+- Clicking the logo on the main menu no longer takes you to arras.io.
+
 # Update [2026-11-08]
 - Fixed right click not working properly.
 - Added a HUD editor.
@@ -9,7 +15,6 @@
 - Added Instant Fade to extras, when enabled disappearing entities don't have a fading animation.
 - Added a Spectate button next to Play.
 - Fixed the tab icon sometimes not showing up.
-
 
 # Update [2026-11-07]
 - Redesigned the main menu.
