@@ -1,10 +1,14 @@
 # Update [2026-11-08]
+- Added a HUD editor.
 - The client should load much faster now.
 - Updates now download in the background. When one is ready, a notification on the main menu lets you update now or later.
 - Updates are now less than half the size, so they download faster.
 - Sliders in the options and theme tabs now show their value.
 - The border thickness slider now goes up to 30.
 - Added Instant Fade to extras, when enabled disappearing entities don't have a fading animation.
+- Added a Spectate button next to Play.
+- Fixed the tab icon sometimes not showing up.
+
 
 # Update [2026-11-07]
 - Redesigned the main menu.
