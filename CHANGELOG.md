@@ -1,6 +1,5 @@
 # Update [2026-11-09]
 - Added Enlarged Minimap to extras. Hold or press Tab to show the minimap big in the middle of the screen, with the names of the players it knows.
-- Added tips and fun facts under the Play button on the main menu.
 - Fixed replay thumbnails sometimes showing up as a dark square.
 - Fixed curvy traps having fuzzy edges in WebGL 2 when sharp traps are on too.
 - Fixed big gaps between entries in the arras.io changelog.
