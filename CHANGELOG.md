@@ -1,4 +1,11 @@
 # Update [2026-11-09]
+- Added Enlarged Minimap to extras. Hold or press Tab to show the minimap big in the middle of the screen, with the names of the players it knows.
+- Added tips and fun facts under the Play button on the main menu.
+- Fixed replay thumbnails sometimes showing up as a dark square.
+- Fixed curvy traps having fuzzy edges in WebGL 2 when sharp traps are on too.
+- Fixed big gaps between entries in the arras.io changelog.
+
+# Update [2026-11-09]
 - Killing an incognito player with over 400k score now tells you their real score. Assists show a minimum, since the score is split between everyone who helped.
 - Fixed the last server on the list being faded out.
 - The Discord button now links to discord.gg/arrasio.
