@@ -1,3 +1,20 @@
+# Update [2026-11-16]
+- Redesigned the options menu. Tabs are down the side now, and there's a reset button to put things back to default.
+- Updated the keybinds to match the new arras.io controls.
+- Added a crosshair cursor, an aim line, and mouse movement (your tank moves toward your cursor).
+- Added more grid options: lines, dots or crosses, squares, diagonal lines or hexagons, plus spacing, opacity and thickness.
+- Added health bar options: show health %, always show health bars, and bar size.
+- Added full scores, a crown over the top player on the leaderboard, and a name size slider.
+- Added toggles for hit flash, barrel recoil, round edges and shape spin.
+- Added projectile options: opacity, an outline on your own projectiles, and projectile health bars.
+- Added a chat tab: hide enemy messages, message duration and size, emoji codes like :joy:, Ez Bypass, and a quick message key.
+- Added a performance tab with power saver, quality and text quality sliders.
+- You can now use an image or GIF as your background, from a link or a file.
+- Pressing Escape in a game now brings up the menu without leaving the game.
+- Added server list options to hide empty servers, sort by player count, and remember your filters.
+- Screenshots can now be saved as JPG, and you can take them without the HUD.
+- You can now turn off the live game preview behind the menu.
+
 # Update [2026-11-09]
 - Added Enlarged Minimap to extras. Hold or press Tab to show the minimap big in the middle of the screen, with the names of the players it knows.
 - Fixed replay thumbnails sometimes showing up as a dark square.
