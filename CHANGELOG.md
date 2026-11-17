@@ -1,4 +1,5 @@
 # Update [2026-11-17]
+- Slightly improved tank and barrel movement.
 - Added an Upgrades section to the HUD tab. You can hide the stat upgrades, tank upgrades or build loader, and right click a tank to preview the tanks after it.
 - Added a Kill Bar section to the HUD tab. Pick which counts it shows (kills, assists, boss kills, shape kills), and have it change color based on your kills per 100k score.
 - Added an Info section to the HUD tab, so you can pick what the text above the minimap shows. It also has new options for coordinates, speed, time alive and score per minute.
