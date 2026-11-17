@@ -1,3 +1,16 @@
+# Update [2026-11-17]
+- Added a Presets tab to options. You can save your settings as a preset, pick which sections it includes, and share it with a code.
+- Added Fade Large Entities and Show Hitboxes to the Visual options.
+- Added Force 16:9 Aspect Ratio to the Menu options.
+- Added Keyboard Display, which shows the keys you're pressing next to the minimap. It comes in small, medium and large.
+- Auto Reconnect now works like the one on arras.io. It reconnects 3 seconds after you get disconnected, then tries again every 20 seconds, and the Reconnect button shows the countdown.
+- Replays no longer start playing as soon as you open them.
+- Fixed replays flashing, showing a black square and resizing when you open them or switch between them.
+- Added an Export Default button to replays, which saves the replay as a 1080p video with the default settings. To export the replay file itself, use the new Export button next to Import.
+- Fixed the replay deleted message staying up after switching to another replay.
+- Fixed background GIFs not playing.
+- Fixed dropdowns and tooltips in options showing up under text boxes.
+
 # Update [2026-11-16]
 - Redesigned the options menu. Tabs are down the side now, and there's a reset button to put things back to default.
 - Updated the keybinds to match the new arras.io controls.
