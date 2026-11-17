@@ -1,4 +1,7 @@
 # Update [2026-11-17]
+- Fixed thumbnails in replays.
+
+# Update [2026-11-17]
 - Added a Presets tab to options. You can save your settings as a preset, pick which sections it includes, and share it with a code.
 - Added Fade Large Entities and Show Hitboxes to the Visual options.
 - Added Force 16:9 Aspect Ratio to the Menu options.
