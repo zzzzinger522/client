@@ -1,7 +1,4 @@
 # Update [2026-11-17]
-- Fixed thumbnails in replays.
-
-# Update [2026-11-17]
 - Added a Presets tab to options. You can save your settings as a preset, pick which sections it includes, and share it with a code.
 - Added Fade Large Entities and Show Hitboxes to the Visual options.
 - Added Force 16:9 Aspect Ratio to the Menu options.
@@ -13,6 +10,7 @@
 - Fixed the replay deleted message staying up after switching to another replay.
 - Fixed background GIFs not playing.
 - Fixed dropdowns and tooltips in options showing up under text boxes.
+- Fixed thumbnails in replays.
 
 # Update [2026-11-16]
 - Redesigned the options menu. Tabs are down the side now, and there's a reset button to put things back to default.
