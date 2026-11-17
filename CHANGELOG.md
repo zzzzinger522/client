@@ -1,4 +1,17 @@
 # Update [2026-11-17]
+- Added an Upgrades section to the HUD tab. You can hide the stat upgrades, tank upgrades or build loader, and right click a tank to preview the tanks after it.
+- Added a Kill Bar section to the HUD tab. Pick which counts it shows (kills, assists, boss kills, shape kills), and have it change color based on your kills per 100k score.
+- Added an Info section to the HUD tab, so you can pick what the text above the minimap shows. It also has new options for coordinates, speed, time alive and score per minute.
+- Added a Leaderboard section to the HUD tab. You can hide the title, names, tank names or icons, show full scores, and choose how many rows it shows.
+- Added a Minimap section to the HUD tab with dot size, opacity, and a toggle to show players hiding in the border.
+- Added Show HUD and HUD Outline to the HUD tab.
+- Added Last Key Priority to the Gameplay options. When you hold two opposite movement keys, you move toward the one you pressed last instead of stopping.
+- Added Highlight Dead Ends to the Gameplay options. It marks dead ends in mazes in red, in game and on the minimap.
+- Fixed right click stopping your left click fire.
+- Fade Large Entities no longer fades walls.
+- Fixed extra tooltips showing up when hovering keybinds in Controls.
+
+# Update [2026-11-17]
 - Added a Presets tab to options. You can save your settings as a preset, pick which sections it includes, and share it with a code.
 - Added Fade Large Entities and Show Hitboxes to the Visual options.
 - Added Force 16:9 Aspect Ratio to the Menu options.
