@@ -1,3 +1,7 @@
+# Update [2026-11-18]
+- Fixed Smasher and drones sometimes snapping to a different angle.
+- Fixed Highlight Your Projectiles no longer highlighting a projectile after it leaves and re enters your fov.
+
 # Update [2026-11-17]
 - Slightly improved tank and barrel movement.
 - Added an Upgrades section to the HUD tab. You can hide the stat upgrades, tank upgrades or build loader, and right click a tank to preview the tanks after it.
