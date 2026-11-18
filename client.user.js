@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         client
 // @namespace    https://raw.githubusercontent.com/zzzzinger522/client/main/
-// @version      1.0.68
+// @version      1.0.69
 // @match        https://arras.io/+*
 // @run-at       document-start
 // @grant        GM_getValue
