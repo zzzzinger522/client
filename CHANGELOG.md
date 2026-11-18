@@ -1,5 +1,5 @@
 # Update [2026-11-18]
-- Fixed Smasher and drones sometimes snapping to a different angle.
+- Fixed smasher tanks and drones sometimes snapping to a different angle.
 - Fixed Highlight Your Projectiles no longer highlighting a projectile after it leaves and re enters your fov.
 
 # Update [2026-11-17]
